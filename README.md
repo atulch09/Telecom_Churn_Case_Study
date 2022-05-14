@@ -1,6 +1,6 @@
 # Project Name
 ## Telecom_Churn_Case_Study
-####This assignment is a programming assignment wherein I have built different ML models to predict churn for a leading telecom operator in South-East Asia.
+#### This assignment is a programming assignment wherein I have built different ML models to predict churn for a leading telecom operator in South-East Asia.
 
 
 ## Table of Contents
